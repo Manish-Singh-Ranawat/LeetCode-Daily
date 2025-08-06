@@ -40,6 +40,6 @@ public class Aug5__FruitsIntoBasketsII {
         int[] fruits = { 4, 2, 5 };
         int[] baskets = { 3, 5, 4 };
         System.out.println(numOfUnplacedFruits(fruits, baskets));
-        // 1
+        // 1 
     }
 }
